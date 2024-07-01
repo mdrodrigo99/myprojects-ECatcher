@@ -1,0 +1,9 @@
+E:\SwinburneModules\Projects\TProjects\ECatcher\bin\Release\netcoreapp2.0\ECatcher.deps.json
+E:\SwinburneModules\Projects\TProjects\ECatcher\bin\Release\netcoreapp2.0\ECatcher.runtimeconfig.json
+E:\SwinburneModules\Projects\TProjects\ECatcher\bin\Release\netcoreapp2.0\ECatcher.runtimeconfig.dev.json
+E:\SwinburneModules\Projects\TProjects\ECatcher\bin\Release\netcoreapp2.0\ECatcher.dll
+E:\SwinburneModules\Projects\TProjects\ECatcher\bin\Release\netcoreapp2.0\ECatcher.pdb
+E:\SwinburneModules\Projects\TProjects\ECatcher\obj\Release\netcoreapp2.0\ECatcher.AssemblyInfoInputs.cache
+E:\SwinburneModules\Projects\TProjects\ECatcher\obj\Release\netcoreapp2.0\ECatcher.AssemblyInfo.cs
+E:\SwinburneModules\Projects\TProjects\ECatcher\obj\Release\netcoreapp2.0\ECatcher.dll
+E:\SwinburneModules\Projects\TProjects\ECatcher\obj\Release\netcoreapp2.0\ECatcher.pdb

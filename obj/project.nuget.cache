@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOIuJiF2ouqxRJalvA+td+ZegStYwbHjSVq8LkfeKb0U3v4h/SS/HLSTR3FVwBsfObxAQ1Lw3a/EC8PXNOykJQ==",
+  "success": true,
+  "projectFilePath": "F:\\New folder\\Studies\\Projects\\CSharp\\TProjects\\ECatcher\\ECatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdrod\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\mdrod\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
